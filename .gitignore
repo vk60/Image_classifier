@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Model files
+*.pth
+
+# Dataset
+dataset/
+data/
+training_set/
+test_set/
+custom_cnn_folder
