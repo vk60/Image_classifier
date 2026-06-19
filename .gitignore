@@ -12,8 +12,7 @@ venv/
 # Streamlit
 .streamlit/
 
-# Model files
-*.pth
+ 
 
 # Dataset
 dataset/
